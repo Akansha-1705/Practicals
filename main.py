@@ -1,3 +1,3 @@
-def add(a,b):
-    return a+b
-print ("a+b=30")
+def add(a,b,c):
+    return a+b+c
+print ("a+b+c=30")
