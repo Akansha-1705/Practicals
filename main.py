@@ -1,3 +1,3 @@
 def add(a,b):
     return a+b
-print ("a+b=30")
+print ("a+b=50")
