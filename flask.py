@@ -1,7 +1,7 @@
 from flask import Flask
 app=Flask(__name__)
 
-@app.route("/Ak/<name>/<int:password>")
+@app.route("/Devi/<name>/<int:password>")
 def hello(name,password):
     return f"<h1>Name: {name}</h1><h1>Password: {password}</h1>"
 
